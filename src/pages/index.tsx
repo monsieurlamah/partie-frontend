@@ -7,7 +7,6 @@ export default function Home() {
   return (  
     <>
     <Seo title='Monsieur Lamah' description='Description...'/>
-    <h1>Hello world</h1>
     </>
   
   )
